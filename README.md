@@ -1,4 +1,3 @@
 - 👋 Hi, I’m @Micido
 - 👀 I’m interested in video game making
 - 🌱 I’m currently learning pyhton and lua
-- 📫 you can contact me on discord, im "micido", add me and say you come from github
